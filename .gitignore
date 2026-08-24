@@ -1,5 +1,6 @@
 /target
-.env
 .env.example
 
 ISSUES.md
+config.bat
+node_modules
